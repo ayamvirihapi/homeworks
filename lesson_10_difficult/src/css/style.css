@@ -1,0 +1,148 @@
+body {
+  color: #32325f;
+  font-family: 'Roboto', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.main-image {
+  padding-left: 65px;
+}
+
+.subtitle {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.icons {
+  margin-left: 20px;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.price {
+  font-size: 49px;
+  font-weight: 400;
+  color: #525f7f;
+}
+
+.btn {
+  font-size: 20px;
+  font-weight: 700;  
+}
+
+.btn-success {
+  background-color: #2dce89;  
+  width: 214px;
+  height: 66px;
+  border-radius: 6px;
+  border: none;
+}
+
+.block-text {
+  color: #525f7f;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.btn-success:hover {
+  background-color: #1a7950;
+}
+
+.btn-primary {
+  width: 250px;
+  height: 66px;
+  border-radius: 6px;
+  background-color: #5e72e4;
+}
+
+.btn-primary:hover {
+  background-color: #354183;
+}
+
+.main {
+  margin-top: 100px;
+}
+
+.hero {
+  padding-top: 70px;
+  padding-bottom: 190px; 
+}
+
+.section {
+  padding-bottom: 80px;
+  padding-top: 80px;
+}
+
+.about-block {
+  margin-top: 50px;
+}
+
+.footer {
+  background-color: #32325f;
+  color: #ffffff;
+}
+
+.section-title {
+  width: 421px;
+  height: 58px;
+  font-size: 48px;
+  font-weight: 700;  
+}
+
+.section-subtitle {
+  font-size: 20px;
+  font-weight: 400;  
+  margin-top: 20px;
+}
+
+.section-subtitle-people {
+  font-size: 20px;
+  font-weight: 400;  
+  margin-top: 90px;
+
+}
+
+.price-tag {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.description {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 26px;  
+}
+
+.footer-link {
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+
+.footer-link:hover {
+  color: rgb(241, 142, 159);
+  text-decoration: none;
+}
+
+.brand {
+  width: 182px;
+  height: 25px;
+  color: #95989a;
+  font-size: 20px;
+  font-weight: 700;  
+}
+
+.brand:hover {
+  color: rgb(241, 142, 159);
+  text-decoration: none;
+}
+
+.footer-subtitle {
+  margin-bottom: 30px;
+}

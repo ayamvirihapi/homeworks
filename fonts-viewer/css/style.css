@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Bebas Regular';
+  src: url("../fonts/BebasRegular/BebasRegular.eot");
+	src: local("MuseoSansCyrl-700"), 
+	url("../fonts/BebasRegular/BebasRegular.eot?#iefix") format("embedded-opentype"), 
+	url("../fonts/BebasRegular/BebasRegular.woff") format("woff"), 
+	url("../fonts/BebasRegular/BebasRegular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+} 
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
+.opensans {
+	font-family: 'Open Sans', sans-serif;
+}
+.bebasregular {
+	font-family: 'Bebas Regular', sans-serif;
+}
+.badscript {
+	font-family: 'Bad Script', cursive;
+}
+.lobster {
+	font-family: 'Lobster', cursive;
+}
